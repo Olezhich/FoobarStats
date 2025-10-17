@@ -18,6 +18,15 @@
 - Supports Python 3.10+
 
 ## QuickStart
+
+### Foobar2000 XML export
+
+First, select the tracks in the playlist for which you want to export statistics > right-click > Playback Statistics > Export Statistics to XML...
+
+Then a window will appear:
+
+![export window view](export.png)
+
 ### Instalation of the library
 #### Via pip
 ```commandline
